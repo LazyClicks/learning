@@ -38,7 +38,7 @@ class _FrontPageState extends State<FrontPage> {
   Widget build(BuildContext context) {
     return Center(
       child: SizedBox(
-        height: 200,
+        height: 200, //
         child: Card(
           color: Colors.brown.shade200,
           child: Center(
